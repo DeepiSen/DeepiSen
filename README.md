@@ -6,7 +6,7 @@
 </p>
 
 ### 🌟 Highlights
-- 🏆 **Built and launched** a production-ready Android app with 10k+ downloads.
+- 🏆 **Built and launched** a production-ready Android app with 1K+ downloads.
 - 🚰 **Led a team** of developers to deliver complex app features within tight deadlines.
 - 📝 **Certified** in Java Programming and Spring Framework Development.
 - 🚀 **Contributed** to automotive industry solutions with a focus on automation.
