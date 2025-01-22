@@ -39,6 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepiSen&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 ### 🛠️ Skills
 - **Languages**: Java, C, JavaScript, Dart
 - **Frontend**: HTML, CSS, React, Bootstrap, Thymeleaf
@@ -46,3 +47,4 @@
 - **Database**: SQL, MongoDB, MySQL
 - **Mobile Development**: Android, Flutter
 - **Tools**: Postman, Git, AWS
+
