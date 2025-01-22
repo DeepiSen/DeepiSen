@@ -1,19 +1,48 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
-<h3 align="center">Technical Lead | App Development Startup (2 Years) | Full Stack Web Developer | Automotive Industry Experience (1 Year)</h3>
+<h3 align="center">A Passionate Developer with Expertise in Full-Stack Development and Mobile App Creation</h3>
 
-- 🔭 I’m currently working on [Nibuna Tech Solutions](Android Development)
+<p align="center">
+  With 2 years of experience as a Technical Lead at an app development startup and 1 year in the automotive industry, I thrive on building innovative solutions that make an impact. I'm dedicated to lifelong learning and continuously expanding my skill set.
+</p>
 
-- 🌱 I’m currently learning **Java, Databases,Thymeleaf,Data Structures & Algorithm,Web Development, HTML, CSS, JavaScript, Flutter**
+### 🌟 Highlights
+- 🏆 **Built and launched** a production-ready Android app with 10k+ downloads.
+- 🚰 **Led a team** of developers to deliver complex app features within tight deadlines.
+- 📝 **Certified** in Java Programming and Spring Framework Development.
+- 🚀 **Contributed** to automotive industry solutions with a focus on automation.
 
-- 💬 Ask me about **C, Android Development,Java,SQL,MongoDB,SpringBoot,Thymeleaf**
+### 🔬 Current Projects
+- [Nibuna Tech Solutions](https://github.com/DeepiSen/DeepiSen): Android application development.
 
-- 📫 How to reach me **deepikasenthilkumar22@gmail.com**
+### 🌱 Currently Learning
+- Java, Databases, Data Structures & Algorithms, Web Development (HTML, CSS, JavaScript, Flutter)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PQIKvna5XLAUl2Axd5anoPdm2r-DbP9M/view?usp=sharing](https://drive.google.com/file/d/1PQIKvna5XLAUl2Axd5anoPdm2r-DbP9M/view?usp=sharing)
+### 💬 Ask Me About
+- C, Android Development, Java, SQL, MongoDB, Spring Boot, Thymeleaf
+
+### 📄 Know about my experiences 
+- **Profile**: [https://drive.google.com/file/d/1PQIKvna5XLAUl2Axd5anoPdm2r-DbP9M/view?usp=sharing](https://drive.google.com/file/d/1PQIKvna5XLAUl2Axd5anoPdm2r-DbP9M/view?usp=sharing)
+
+### 📧 Reach Me
+- **Email**: deepikasenthilkumar22@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:deepikasenthilkumar22@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepiSen&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepiSen&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🛠️ Skills
+- **Languages**: Java, C, JavaScript, Dart
+- **Frontend**: HTML, CSS, React, Bootstrap, Thymeleaf
+- **Backend**: Spring Boot, Node.js, Firebase
+- **Database**: SQL, MongoDB, MySQL
+- **Mobile Development**: Android, Flutter
+- **Tools**: Postman, Git, AWS
