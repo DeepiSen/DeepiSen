@@ -16,7 +16,10 @@
 ---
 
 ### 🔬 Current Projects
-- [Nibuna Tech Solutions](https://github.com/DeepiSen/DeepiSen): Android application development.
+- [Nibuna Tech Solutions](https://github.com/DeepiSen/DeepiSen):  Android application development: [📱 My App on Google Play](https://play.google.com/store/search?q=stock%20chitta&c=apps&hl=en)
+- [PostVault](https://github.com/DeepiSen/Java-Android-App): Android application development : [📱 Try My App Live](https://github.com/DeepiSen/Java-Android-App/releases/tag/PostVault)
+
+
 
 ---
 
