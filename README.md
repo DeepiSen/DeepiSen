@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Deepika</h1>
-<h3 align="center">A Passionate Developer with Expertise in Full-Stack Development and Mobile App Creation</h3>
+# 👋 Hi, I'm Deepika  
+### A Passionate Full-Stack & Mobile App Developer
 
-<p align="center">
+<p align="Left">
   With 2 years of experience as a Technical Lead at an app development startup and 1 year in the automotive industry, I thrive on building innovative solutions that make an impact. I'm dedicated to lifelong learning and continuously expanding my skill set.
 </p>
 
@@ -16,11 +16,15 @@
 ---
 
 ### 🔬 Current Projects
-- [Nibuna Tech Solutions](https://github.com/DeepiSen/DeepiSen):  Android application development: [📱 My App on Google Play](https://play.google.com/store/search?q=stock%20chitta&c=apps&hl=en)
-- [PostVault](https://github.com/DeepiSen/Java-Android-App): Android application development : [📱 Try My App Live](https://github.com/DeepiSen/Java-Android-App/releases/tag/PostVault)
 
+- **Nibuna Tech Solutions** – Android app development  
+  📱 [My App on Google Play](https://play.google.com/store/search?q=stock%20chitta&c=apps&hl=en)    
+  🔐 Features: Secure login, Physical stock management, Live Updation for other verified users, Attendance maintanance and visibility controls
 
-
+- **PostVault** – Android app to post messages with public/private visibility  
+  📲 [Download APK (Live Demo)](https://github.com/DeepiSen/Java-Android-App/releases/download/PostVault/app-debug.apk)  
+  🔐 Features: Secure login, message creation, and visibility controls
+  
 ---
 
 ### 🌱 Currently Learning
@@ -34,25 +38,16 @@
 ---
 
 ### 📄 Know about my experiences 
-- **Resume**: [View Here](https://drive.google.com/file/d/1RHUnC5dVUCWTuvLJ1-HYb-8Hs5JCVjx-/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1RHUnC5dVUCWTuvLJ1-HYb-8Hs5JCVjx-/view?usp=sharing)
 
 ---
 
 ### 📧 Reach Me
-- **Email**: deepikasenthilkumar22@gmail.com
+📬 Email: deepikasenthilkumar22@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/deepika-r-116682202/)
 
 ---
 
-### 🤝 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepika-r-116682202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
- 
-</p>
-
----
 ### 🧰 Tech Stack
 
 <p align="center">
