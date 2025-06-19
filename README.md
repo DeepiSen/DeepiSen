@@ -17,9 +17,13 @@
 
 ### 🔬 Current Projects
 
+- **ProductListing** – Web app to list the products from MockApi using Angular Materials(Front-End Only)
+  📲 [Download APK (Live Demo)](https://github.com/DeepiSen/Product_List_Angular/releases)  
+  🔐 Features: Showing a complete list of data from the API, filtering by Name option, sorting by Name, and State management
+
 - **Nibuna Tech Solutions** – Android app development  
   📱 [My App on Google Play](https://play.google.com/store/search?q=stock%20chitta&c=apps&hl=en)    
-  🔐 Features: Secure login, Physical stock management, Live Updation for other verified users, Attendance maintanance and visibility controls
+  🔐 Features: Secure login, Physical stock management, Live Updation for other verified users, Attendance maintenance, and visibility controls
 
 - **PostVault** – Android app to post messages with public/private visibility  
   📲 [Download APK (Live Demo)](https://github.com/DeepiSen/Java-Android-App/releases/download/PostVault/app-debug.apk)  
