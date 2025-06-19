@@ -17,8 +17,8 @@
 
 ### 🔬 Current Projects
 
-- **ProductListing** – Web app to list the products from MockApi using Angular Materials(Front-End Only)
-  📲 [Download APK (Live Demo)](https://github.com/DeepiSen/Product_List_Angular/releases)  
+- **ProductListing** – Web app to list the products from MockApi using Angular Materials(Front-End Only)   
+  📲 [Check my Web App (Live Demo)](https://github.com/DeepiSen/Product_List_Angular/releases)  
   🔐 Features: Showing a complete list of data from the API, filtering by Name option, sorting by Name, and State management
 
 - **Nibuna Tech Solutions** – Android app development  
